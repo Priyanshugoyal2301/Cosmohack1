@@ -117,7 +117,7 @@ Data-driven insights on civic engagement:
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/Priyanshugoyal2301/Infosphere.git
+git clone https://github.com/Priyanshugoyal2301/Cosmohack1
 cd infosphere
 ```
 
